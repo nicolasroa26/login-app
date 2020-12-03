@@ -1,0 +1,2683 @@
+[
+    {
+        "Linea":"AMBIENTAL",
+        "Sectores":[{
+            "keys":"1",
+            "Sector": "MINAS Y ENERGIA",
+            "Programas":[{
+              "keyp":"1",
+              "Programapdd": "GAMA CON ENERGÍA Y GAS ",
+              "Programa":"2102 Consolidación productiva del sector de energía eléctrica",
+              "Todobien":[{
+                "key":"1",
+                "indibien":"Porcentaje de cobertura de energía eléctrica",
+                "Udm":"Porcentaje",
+                "Mdc":"96,70%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Aumentar la cobertura del servicio de  energía eléctrica a  familias más vulnerables",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Redes domiciliarias de energía eléctrica instaladas",
+                "indicador":"Viviendas en zonas rurales conectadas a la red del sistema de distribución local de energía eléctrica",
+                "Ods":"8"
+            },{
+                "key":"2",
+                "meta":"Realizar  mantenimientos al sistema de alumbrado público",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":" Redes de alumbrado público con mantenimiento",
+                "indicador":"Alumbrado público con mantenimiento",
+                "Ods":"8"   
+            },{
+                "key":"3",
+                "meta":"Realizar la ampliación del alumbrado público en el municipio",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":" Redes de alumbrado público ampliadas",
+                "indicador":"Redes de alumbrado público ampliadas",
+                "Ods":"N/A"   
+            },{
+                "key":"4",
+                "meta":"Realizar anualmente los pagos de servicio de alumbrado público",
+                "tmeta":"MANTENIMIENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de apoyo financiero en el pago del alumbrado  público",
+                "indicador":"Pagos realizados al alumbrado público",
+                "Ods":"8"   
+            },{
+                "key":"5",
+                "meta":"Realizar un  proyecto para establecer la viabilidad de la implementación de energías alternativas",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Documentos de LÍNEAmientos técnicos",
+                "indicador":"Documentos de LÍNEAmientos técnicos realizados",
+                "Ods":"8"   
+            }]              
+            },{
+              "keyp":"2",
+              "Programapdd": "GAMA CON ENERGÍA Y GAS ",
+              "Programa":"2101 Consolidar el mercado de gas combustible a nivel residencial, comercial e industrial",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de cobertura de gas",
+                "Udm":"Porcentaje",
+                "Mdc":"19,40%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Apoyar la ampliación del servicio de gas domiciliario",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"50",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Estudios de pre inversión",
+                "indicador":"Estudios de pre inversión realizados",
+                "Ods":"8"
+            }]    
+            }]
+        },{
+            "keys":"2",
+            "Sector": "AMBIENTE Y DESARROLLO SOSTENIBLE",
+            "Programas":[{
+              "keyp":"1",
+              "Programapdd": "DIVERSIDAD Y SOSTENIBILIDAD ",
+              "Programa":"3201 Fortalecimiento del desempeño ambiental de los sectores productivos",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de acciones cumplidas",
+                "Udm":"Porcentaje",
+                "Mdc":"100%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Realizar campañas sobre recolección de residuos peligrosos agropecuarios",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"3",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de divulgación de la incorporación de consideraciones ambientales en la planificación sectorial",
+                "indicador":"Campañas divulgadas",
+                "Ods":"13"
+            }]    
+            },{
+              "keyp":"2",
+              "Programapdd": "DIVERSIDAD Y SOSTENIBILIDAD ",
+              "Programa":"3202 Conservación de la biodiversidad y sus servicios ecosístemicos",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de acciones cumplidas",
+                "Udm":"Porcentaje",
+                "Mdc":"100%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Realizar jornadas de reforestación y cultura ambiental",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"1",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de reforestación de ecosistemas",
+                "indicador":"Plantaciones forestales realizadas",
+                "Ods":"13"
+            },{
+                "key":"2",
+                "meta":"Realizar capacitaciones y talleres para la conservación de la biodiversidad y sus servicios eco sistémicos",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"4",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de educación informal en el marco de la conservación de la biodiversidad y los Servicio cosméticos",
+                "indicador":"Talleres realizados",
+                "Ods":"13"   
+            }]
+            },{
+              "keyp":"3",
+              "Programapdd": "DIVERSIDAD Y SOSTENIBILIDAD ",
+              "Programa":"3203 Gestión integral de recurso hídrico",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de acciones cumplidas",
+                "Udm":"Porcentaje",
+                "Mdc":"100%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Realizar acciones de recuperación, restauración y manejo de los ríos y quebradas",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"0",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de asistencia técnica relacionado con calidad, uso y planificación del recurso hídrico",
+                "indicador":"Talleres realizados",
+                "Ods":"13"
+            },{
+                "key":"2",
+                "meta":"Actualizar el Programa de Uso Eficiente y Ahorro del Agua (PUEAA) del casco urbano",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"1",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de asistencia técnica para la promoción del uso eficiente y ahorro del agua",
+                "indicador":"Programas de uso eficiente y ahorro del agua actualizados",
+                "Ods":"13"   
+            },{
+                "key":"3",
+                "meta":" Implementar las actividades del PUEAA para el casco Urbano",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"1",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de asistencia técnica para la promoción del uso eficiente y ahorro del agua",
+                "indicador":"Programas de Uso Eficiente del Agua implementados",
+                "Ods":"13"
+             },{
+                "key":"4",
+                "meta":"Formular el Programa  de Uso eficiente y Ahorro de Agua( PUEAA) en la inspección de San Roque",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de asistencia técnica para la promoción del uso eficiente y ahorro del agua",
+                "indicador":"Programas de uso eficiente y ahorro del agua formulados",
+                "Ods":"13"
+            },{
+                "key":"5",
+                "meta":"Implementar  el Programa de Uso Eficiente y Ahorro del Agua (PUEAA) para la inspección San Roque",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de asistencia técnica para la promoción del uso eficiente y ahorro del agua",
+                "indicador":"Programas de Uso Eficiente del Agua implementados",
+                "Ods":"13"
+            }] 
+            },{
+              "keyp":"4",
+              "Programapdd": "DIVERSIDAD Y SOSTENIBILIDAD ",
+              "Programa":"3204 Gestión de la información y el conocimiento ambiental ",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de acciones cumplidas",
+                "Udm":"Porcentaje",
+                "Mdc":"100%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Realizar  campañas de prevención de la deforestación, el manejo forestal, y el aprovechamiento sostenible de los recursos naturales hídricos y forestales",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"4",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de divulgación desconocimiento generado para la Planificación sectorial y la gestión ambiental",
+                "indicador":"Campañas realizadas",
+                "Ods":"13"
+            },{
+                "key":"2",
+                "meta":"Conmemorar el día mundial del agua",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"1",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de divulgación de conocimiento generado para la planificación sectorial y la gestión ambientaL",
+                "indicador":"Campañas realizadas",
+                "Ods":"13"   
+            },{
+                "key":"3",
+                "meta":" Adquirir predios  de interés hídrico según el artículo 111 de la Ley 99 de 1993",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"2",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Predios de interés ambietal adquiridos",
+                "indicador":"Predios adquiridos",
+                "Ods":"13"
+             },{
+                "key":"4",
+                "meta":"Realizar mantenimiento a  predios adquiridos por el municipio",
+                "tmeta":"MANTENIMIENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Predios de interés ambietal mantenidos",
+                "indicador":"Predios con mantenimiento",
+                "Ods":"13"
+            }]
+            },{
+              "keyp":"5",
+              "Programapdd": "DIVERSIDAD Y SOSTENIBILIDAD ",
+              "Programa":"3205 Ordenamiento Ambiental Territorial",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de acciones cumplidas",
+                "Udm":"Porcentaje",
+                "Mdc":"100%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":" Realizar mejoramiento a obras de control de erosión y/o manejo de ríos y quebradas",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"0",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Obras para el control de erosión",
+                "indicador":"Estructuras construidas",
+                "Ods":"13"
+            }]
+            },{
+              "keyp":"6",
+              "Programapdd": "DIVERSIDAD Y SOSTENIBILIDAD ",
+              "Programa":"3206 Gestión del Cambio climatico para un desarrollo bajo en carbono y resiliente al clima",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de acciones cumplidas",
+                "Udm":"Porcentaje",
+                "Mdc":"100%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Implementación del plan de adaptación al cambio climático",
+                "tmeta":"MANTENIMIENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Documentos de planeación para la gestión del cambio climático y un desarrollo bajo en carbono y recipiente al clima",
+                "indicador":"Documentos de planeación con la propuesta de acciones de mitigación y adaptación al cambio climático diseñados",
+                "Ods":"13"
+            },{
+                "key":"2",
+                "meta":"Realizar reuniones anuales del CIDEA",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"3",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de asistencia técnica para la implementación de las estrategias educativo ambientales y de participación",
+                "indicador":"Comités Técnicos Interinstitucionales de Educación Ambiental asistidos técnicamente",
+                "Ods":"13"   
+            },{
+                "key":"3",
+                "meta":" Realizar una campaña para la reducción del uso plástico de un solo uso",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de divulgación  de la información de la política Nacional de Educación Ambiental y Participación",
+                "indicador":"Campañas de educación ambiental y participación implementadas",
+                "Ods":"13"
+            }]             
+           }]
+        }]
+    },{
+        "Linea":"INSTITUCIONAL",
+        "Sectores":[{
+            "keys":"1",
+            "Sector": "GOBIERNO TERRITORIAL",
+            "Programas":[{
+                "keyp":"1",
+                "Programapdd": "TRANSPARENCIA Y EFICIENTE GESTIÓN",
+                "Programa":"4599 Fortalecimiento de la gestión y dirección de la administración pública territorial",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien":"Puesto del ranking de desempeño integral",
+                    "Udm":"Número",
+                    "Mdc":"700"
+                }],
+                "Todoproducto":[{
+                    "key":"1",
+                    "meta":"Realizar capacitaciones anualmente a los funcionarios de la administración en gestión del conocimiento y la innovación",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de Educación Informal para la Gestión Administrativa",
+                    "indicador":"Capacitaciones realizadas",
+                    "Ods":"8"
+                },{
+                    "key":"2",
+                    "meta":"Implementar en el archivo municipal para  Intervenir, conservar, digitalizar y ajuste a las tablas de retención documental cumpliendo la norma de archivo",
+                    "tmeta":"MANTENIMIENTO",
+                    "Lineabase":"1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de gestión documental",
+                    "indicador":"Sistema de gestión documental implementado",
+                    "Ods":"8"
+                },{
+                    "key":"3",
+                    "meta":"Realizar anualmente el reporte del sistema único de información de tramites SUIT",
+                    "tmeta":"MANTENIMIENTO",
+                    "Lineabase":"1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de Implementación Sistemas de Gestión",
+                    "indicador":"Tramites inscritos y actualizados",
+                    "Ods":"8"
+                },{
+                    "key":"4",
+                    "meta":"Realizar la implementación de  dimensiones de mipg",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto":"Servicio de Implementación Sistemas de Gestión",
+                    "indicador":"Herramientas implementadas",
+                    "Ods":"8" 
+                 },{
+                    "key":"5",
+                    "meta":"Realizar  mejoramiento al palacio municipal",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto":"Sedes mantenidas",
+                    "indicador":"Sedes mantenidas",
+                    "Ods":"8"   
+                 },{
+                    "key":"6",
+                    "meta":"Realizar anualmente el cobro coactivo del municipio",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto":"Servicio de gestión documental",
+                    "indicador":"Procesos implementados",
+                    "Ods":"8"
+                 },{
+                    "key":"7",
+                    "meta":"Realizar  dotaciones a la administración municipal",
+                    "tmeta":"MANTENIMIENTO",
+                    "Lineabase":"1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Sede construida y dotada",
+                    "indicador":"Sede dotada",
+                    "Ods":"8"
+                 },{
+                    "key":"8",
+                    "meta":"Realizar anualmente  la contratación de personal especializado, profesional, técnico y asistencial en la prestación de servicios y  apoyo de la gestión en las dependencias de la administración municipal",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicios de información implementados",
+                    "indicador":"Disponibilidad del servicio",
+                    "Ods":"8"
+                }]
+            },{
+                "keyp":"2",
+                "Programapdd": "MITIGAR ES BIENESTAR",
+                "Programa":"4503 Prevención y atención de desastres y emergencias.",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien":"Porcentaje de implementación del plan de gestión del riesgo de desastres y estrategia para la respuesta a emergencias",
+                    "Udm":"Porcentaje",
+                    "Mdc":"60%"
+                }],
+                "Todoproducto":[{
+                    "key":"1",
+                    "meta":"Realizar reuniones del CMGRD para el establecimiento de mecanismos alerta y reacción ante situaciones de riesgo",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"16",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto":"Servicio de asistencia técnica",
+                    "indicador":"Reuniones realizadas para mecanismos alerta y reacción ante situaciones de riesgo",
+                    "Ods":"13"
+                },{
+                    "key":"2",
+                    "meta":"Realizar ajuste del plan de gestión del riesgo de desastres y estrategia para la respuesta a emergencias",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto":"Servicios de implementación del plan de gestión del riesgo de desastres y estrategia para la respuesta a emergencias",
+                    "indicador":"Plan de gestión del riesgo de desastres y estrategia para la respuesta a emergencias implementados",
+                    "Ods":"13"
+                },{
+                    "key":"3",
+                    "meta":"Realizar simulacros de evacuación",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"4",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto":"Servicio de atención a emergencias y desastres",
+                    "indicador":"Simulacros realizados",
+                    "Ods":"13"
+                },{
+                    "key":"4",
+                    "meta":"Realizar capacitaciones por medio del consejo municipal de gestión del riesgo en simulacros de emergencia y primeros auxilios",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto":"Servicio de educación informal",
+                    "indicador":"Personas capacitadas",
+                    "Ods":"13" 
+                 },{
+                    "key":"5",
+                    "meta":" Mantener el convenio con el cuerpo de bomberos legalmente constituido",
+                    "tmeta":"MANTENIMIENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto":"Servicio de asistencia técnica",
+                    "indicador":"Solicitudes tramitadas",
+                    "Ods":"13"   
+                 },{
+                    "key":"6",
+                    "meta":"Realizar capacitaciones del comité Local de Atención y Prevención de Desastres en atención y prevención del riesgo",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"4",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto":"Servicio de educación informal",
+                    "indicador":"Capacitadas realizadas al comité Local",
+                    "Ods":"13"
+                }]
+            },{
+                "keyp":"3",
+                "Programapdd": "COMUNIDAD PARTICIPATIVA",
+                "Programa":"4502 Participación ciudadana y política y respeto por los derechos humanos y diversidad de creencias",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien":"Nivel de participación No electoral",
+                    "Udm":"Porcentaje",
+                    "Mdc":"15%"
+                }],
+                "Todoproducto":[{
+                    "key":"1",
+                    "meta":"Realizar  capacitaciones para fortalecer las juntas de acción comunal",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"4",
+                    "responsable":"SSecretaria de Gobierno",
+                    "producto":"Servicio de promoción a la participación ciudadana",
+                    "indicador":" Juntas de acción comunal capacitadas",
+                    "Ods":"16"
+                },{
+                    "key":"2",
+                    "meta":"Realizar  rendiciones de cuentas sobre la gestión de la administración municipal",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de promoción a la participación ciudadana",
+                    "indicador":"Rendiciones de cuentas realizadas",
+                    "Ods":"16"
+                },{
+                    "key":"3",
+                    "meta":"Promover las  veedurías ciudadanas como espacio garante de control social",
+                    "tmeta":"MANTENIMIENTO",
+                    "Lineabase":"4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de promoción a la participación ciudadana",
+                    "indicador":" Veedurías ciudadanas promovidas como espacio garante de control social",
+                    "Ods":"16"
+                },{
+                    "key":"4",
+                    "meta":"Apoyar la creación de veedurías ciudadana para temas de control",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de promoción a la participación ciudadana",
+                    "indicador":" Veedurías ciudadanas creadas ",
+                    "Ods":"16" 
+                 },{
+                    "key":"5",
+                    "meta":"Realizar  capacitaciones a las  Veedurías ciudadanas sobre temas de control",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de promoción a la participación ciudadana",
+                    "indicador":" Veedurías ciudadanas capacitadas",
+                    "Ods":"16"   
+                 },{
+                    "key":"6",
+                    "meta":"Apoyar la legalización y constitución de las juntas de acción de comunal en el municipio",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"12",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de promoción a la participación ciudadana",
+                    "indicador":"Juntas de acción de comunal legalizadas",
+                    "Ods":"16"
+                }]
+            },{
+                "keyp":"4",
+                "Programapdd": "UN TERRITORIO SEGURO",
+                "Programa":"4501 Fortalecimiento de la convivencia y la seguridad ciudadana",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien":"Porcentaje de implementación del plan integral de convivencia ciudadana",
+                    "Udm":"Porcentaje",
+                    "Mdc":"40%"
+                }],
+                "Todoproducto":[{
+                    "key":"1",
+                    "meta":"Realizar  dotaciones de insumos para el COSO municipal",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas - Coordinación de proyectos agropecuarios",
+                    "producto":"Servicio de sanidad animal en el coso municipal",
+                    "indicador":" Dotaciones al Coso animal realizadas",
+                    "Ods":"9"
+                },{
+                    "key":"2",
+                    "meta":"Formular el plan integral de convivencia ciudadana",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":" Servicio de promoción de convivencia y no repetición",
+                    "indicador":"plan integral de convivencia ciudadana actualizado",
+                    "Ods":"16"   
+                },{
+                    "key":"3",
+                    "meta":"Realizar  actividades que involucren temas de seguridad y colaboración",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":" Servicio de promoción de convivencia y no repetición",
+                    "indicador":"Actividades realizadas en temas de seguridad y colaboración",
+                    "Ods":"16"   
+                },{
+                    "key":"4",
+                    "meta":"Capacitar a  personas sobre temas de convivencia y seguridad ciudadana",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de educación informal",
+                    "indicador":"Personas capacitadas",
+                    "Ods":"16"   
+                },{
+                    "key":"5",
+                    "meta":"Realizar asistencias técnicas sobre prevención a violaciones de derechos humanos",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de prevención a violaciones de derechos humanos",
+                    "indicador":"Misiones humanitarias realizadas",
+                    "Ods":"16"   
+                }] 
+            }]
+        },{
+            "keys":"2",
+            "Sector": "TRABAJO",
+            "Programas":[{
+                "keyp":"1",
+                "Programapdd": "OPORTUNIDADES DE PROGRESO PARA TODOS",
+                "Programa":"3601 Protección social",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien":"Índice de pobreza multidimensional (ipm)",
+                    "Udm":"Porcentaje",
+                    "Mdc":"61,06%"
+                }],
+                "Todoproducto":[{
+                    "key":"1",
+                    "meta":"Realizar  eventos sobre el Sistema General de Pensiones, Cajas de Compensación y SGSST",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de divulgación sobre el Sistema General de Pensiones y Cajas de Compensación",
+                    "indicador":" Eventos realizados",
+                    "Ods":"1,5,8"
+                },{
+                    "key":"2",
+                    "meta":"Garantizar el desarrollo del programa Colombia Mayor dentro del municipio",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"472",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":" Servicio de apoyo financiero para el adulto mayor",
+                    "indicador":"Subsidios del Programa Colombia Mayor entregados",
+                    "Ods":"1,5,8"
+                }]
+            },{
+                "keyp":"2",
+                "Programapdd": "OPORTUNIDADES DE PROGRESO PARA TODOS",
+                "Programa":"3602 Generación y formalización del empleo",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien":"Índice de pobreza multidimensional (ipm)",
+                    "Udm":"Porcentaje",
+                    "Mdc":"61,06%"
+                }],
+                "Todoproducto":[{
+                    "key":"1",
+                    "meta":"Realizar actividades sobre gestión de emprendimiento e identificación de oportunidades de negocio",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de gestión para el emprendimiento",
+                    "indicador":" Eventos realizados",
+                    "Ods":"1,5,8"
+                }]
+            },{
+                "keyp":"3",
+                "Programapdd": "OPORTUNIDADES DE PROGRESO PARA TODOS",
+                "Programa":"3603 Formación para el trabajo",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien":"Índice de pobreza multidimensional (ipm)",
+                    "Udm":"Porcentaje",
+                    "Mdc":"61,06%"
+                }],
+                "Todoproducto":[{
+                    "key":"1",
+                    "meta":"Monitorear  los programas de formación para el trabajo",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de seguimiento a los programas de formación para el trabajo orientados a población vulnerable",
+                    "indicador":" Programas de formación monitoreados",
+                    "Ods":"1,5,8"
+                }]
+            },{
+                "keyp":"4",
+                "Programapdd": "OPORTUNIDADES DE PROGRESO PARA TODOS",
+                "Programa":"3604 Derechos fundamentales del trabajo y fortalecimiento del diálogo social",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien":"Índice de pobreza multidimensional (ipm)",
+                    "Udm":"Porcentaje",
+                    "Mdc":"61,06%"
+                }],
+                "Todoproducto":[{
+                    "key":"1",
+                    "meta":"Realizar  campañas sobre la implementación, funcionamiento del teletrabajo",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Servicio de promoción y divulgación del teletrabajo",
+                    "indicador":" Campañas de promoción del teletrabajo realizadas",
+                    "Ods":"1,5,8"
+                }]
+            }]
+        },{
+            "keys":"3",
+            "Sector": "INFORMACION ESTADISTICA",
+            "Programas":[{
+                "keyp":"1",
+                "Programapdd": "GAMA ACTUALIZADA E INFORMADA",
+                "Programa":"0401 Levantamiento y actualización de información estadística de calidad",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien":"Porcentaje de información actualizada de Pobreza y Condiciones de Vida, salud y agropecuario",
+                    "Udm":"Porcentaje",
+                    "Mdc":"100%"
+                }],
+                "Todoproducto":[{
+                    "key":"1",
+                    "meta":"Realizar anualmente actualizaciones a la base de datos del municipio de Pobreza y Condiciones de Vida",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto":"Bases de Datos de la temática de Pobreza y Condiciones de Vida",
+                    "indicador":" Bases de Datos de la temática de Pobreza y Condiciones de Vida publicadas",
+                    "Ods":"16,17"
+                },{
+                    "key":"2",
+                    "meta":"Garantizar el desarrollo del programa Colombia Mayor dentro del municipio",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":" Bases de Datos de la temática de Salud",
+                    "indicador":"Bases de Datos de la temática de Pobreza y Condiciones de Vida publicadas",
+                    "Ods":"16,17"
+                },{
+                    "key":"3",
+                    "meta":"Garantizar el desarrollo del programa Colombia Mayor dentro del municipio",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto":"Boletines Técnicos de la Temática Agropecuaria",
+                    "indicador":"Boletines Técnicos de la Temática Agropecuaria producidos",
+                    "Ods":"16,17"
+                }]
+            },{
+                "keyp":"2",
+                "Programapdd": "GAMA ACTUALIZADA E INFORMADA",
+                "Programa":"0404 Acceso y actualización de la información catastral",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien":"Porcentaje de información actualizada de Pobreza y Condiciones de Vida, salud y agropecuario",
+                    "Udm":"Porcentaje",
+                    "Mdc":"100%"
+                }],
+                "Todoproducto":[{
+                    "key":"1",
+                    "meta":" (Realizar la actualización catastral del municipio",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto":"Servicio de actualización catastral",
+                    "indicador":" Predios catastralmente actualizados",
+                    "Ods":"16,17"
+                }]
+            }]
+        },{
+            "keys":"4",
+            "Sector": "JUSTICIA Y DEL DERECHO",
+            "Programas":[{
+                "keyp":"1",
+                "Programapdd": "UN TERRITORIO SEGURO",
+                "Programa":"1202 Promoción al acceso a la justicia",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien":"Porcentaje de casos de violencia en el municipio",
+                    "Udm":"Porcentaje",
+                    "Mdc":"0%"
+                }],
+                "Todoproducto":[{
+                    "key":"1",
+                    "meta":"Mantener anualmente profesionales en la comisaria de familia para Garantizar, proteger, restablecer y reparar los derechos de los miembros de la familia",
+                    "tmeta":"MANTENIMIENTO",
+                    "Lineabase":"1",
+                    "responsable":"Comisaria de Familia",
+                    "producto":"Servicio de promoción del acceso a la justicia",
+                    "indicador":" Comisario de familia atendiendo derechos de los miembros de la familia",
+                    "Ods":"16"
+                },{
+                    "key":"2",
+                    "meta":"Mantener anualmente un inspector de policía para la atención de las contravenciones",
+                    "tmeta":"MANTENIMIENTO",
+                    "Lineabase":"1",
+                    "responsable":"Secretaria de Gobierno y Comisaria de Familia",
+                    "producto":"Servicio de asistencia técnica en materia de promoción al acceso a la justicia",
+                    "indicador":"Inspector de policía atendiendo contravenciones",
+                    "Ods":"16"
+                },{
+                    "key":"3",
+                    "meta":"Realizar una acción para la implementación de herramientas tecnológicas de seguridad ",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"1",
+                    "responsable":"Secretaria de Gobierno y Comisaria de Familia",
+                    "producto":"Servicios tecnológicos",
+                    "indicador":" Herramientas tecnológicas de seguridad instaladas",
+                    "Ods":"16"
+                },{
+                    "key":"4",
+                    "meta":"Realizar  eventos a la población sobre temas de acceso a la justicia",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":" Servicio de educación informal en temas de acceso a la justicia",
+                    "indicador":" Eventos de capacitación a la ciudadanía en al acceso a la justicia",
+                    "Ods":"16,17"
+                },{
+                    "key":"5",
+                    "meta":"Realizar  Consejos de Seguridad",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"12",
+                    "responsable":"Secretaria de Gobierno y Comisaria de Familia",
+                    "producto":"Servicio de asistencia técnica para la articulación de los operadores de los Servicio de justicia",
+                    "indicador":"Consejos de seguridad realizados",
+                    "Ods":"16"
+               }]
+            },{
+                "keyp":"2",
+                "Programapdd": "UN TERRITORIO SEGURO",
+                "Programa":"1206 Sistema penitenciario y carcelario en el marco de los derechos humanos",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien":"Porcentaje de casos de violencia en el municipio",
+                    "Udm":"Porcentaje",
+                    "Mdc":"0%"
+                }],
+                "Todoproducto":[{
+                    "key":"1",
+                    "meta":"Realizar anualmente una dotación a la estación de policía con los recursos del fondo de seguridad",
+                    "tmeta":"INCREMENTO",
+                    "Lineabase":"N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto":"Infraestructura penitenciaria y carcelaria dotada",
+                    "indicador":"  Establecimientos de reclusión (nacionales y territoriales) dotados",
+                    "Ods":"16"
+                },{
+                    "key":"2",
+                    "meta":"Realizar un convenio anual con el INPEC de conformidad con los LÍNEAmientos establecidos de la ley",
+                    "tmeta":"MANTENIMIENTO",
+                    "Lineabase":"1",
+                    "responsable":"Secretaria de Gobierno y Comisaria de Familia",
+                    "producto":"Servicio de vigilancia carcelaria y penitenciaria",
+                    "indicador":"Convenios realizados con el INPEC",
+                    "Ods":"16"   
+                }]    
+            }]
+        }]
+    },{
+        "Linea":"ECONOMICO",
+        "Sectores":[{
+            "keys":"1",
+            "Sector": "TECNOLOGIAS DE LA INFORMACIÓN Y LAS COMUNICACIONES",
+            "Programas":[{
+              "keyp":"1",
+              "Programapdd": "CONECTANDO AL MUNDO",
+              "Programa":"2302 Fomento del desarrollo de aplicaciones, software y contenidos para impulsar la apropiación de las Tecnologías de la Información y las Comunicaciones (TIC)",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de Calificación de Gobierno digital",
+                "Udm":"Porcentaje",
+                "Mdc":"79,67%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Contar con personal de apoyo para implementar la estrategia de Gobierno Digital",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de educación informal para la implementación de la Estrategia de Gobierno digital",
+                "indicador":"Personas capacitadas para la implementación de la Estrategia de Gobierno digital",
+                "Ods":"9"
+            },{
+                "key":"2",
+                "meta":"Realizar la política y LÍNEAmientos de seguridad digital y Arquitectura TI",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N.A.",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Documentos de planeación ",
+                "indicador":"Documento de las Estrategias de asistencia técnica para la implementación de Arquitectura TI Colombia expedido.",
+                "Ods":"9"   
+            },{
+                "key":"3",
+                "meta":"Realizar anualmente actualizaciones a la página web del municipio con el objetivo de cumplir  con el informe ITA de la Procuraduría General de la Nación",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"4",
+                "responsable":"Secretaria de Gobierno",
+                "producto":" Servicio de producción y/o coproducción de contenidos convergentes",
+                "indicador":"Actualizaciones realizadas a la pagina web",
+                "Ods":"9"   
+            }]       
+            },{
+              "keyp":"2",
+              "Programapdd": "CONECTANDO AL MUNDO",
+              "Programa":"2301 Facilitar el acceso y uso de las Tecnologías de la Información y las Comunicaciones en todo el territorio nacional",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de Calificación de Gobierno digital",
+                "Udm":"Porcentaje",
+                "Mdc":"79,67%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Realizar anualmente la Implementación de trámites y servicios en línea",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"4",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de información implementado",
+                "indicador":"Tramites y servicios en línea implementados",
+                "Ods":"9"
+            },{
+                "key":"2",
+                "meta":"Capacitar a funcionarios públicos y diferentes grupos focalizados sobre la importancia de Gobierno Digital y de las TICS",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N.A.",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de educación informal en tecnologías de la información y las comunicaciones.",
+                "indicador":"Personas capacitadas en tecnologías de la información y las comunicaciones",
+                "Ods":"9"   
+            },{
+                "key":"3",
+                "meta":"Presentar iniciativas para conectividad a internet para la institución educativa",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"2",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de apoyo en tecnologías de la información y las comunicaciones para la educación básica, primaria y secundaria",
+                "indicador":"Sedes educativas oficiales beneficiadas con acceso a internet",
+                "Ods":"9"
+              },{
+                "key":"4",
+                "meta":"Instalar puntos de conectividad gratuita de (Zona wifi) en  sectores estratégicos del Área urbana",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N.A.",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de acceso Zonas Wifi",
+                "indicador":"Zonas Wifi en áreas urbanas con redes terrestres instaladas",
+                "Ods":"9"  
+            }]       
+            }]
+        },{
+            "keys":"2",
+            "Sector": "COMERCIO, INDUSTRIA Y TURISMO",
+            "Programas":[{
+              "keyp":"1",
+              "Programapdd": "LA VENTANA TURISTICA DEL GUAVIO",
+              "Programa": "3502 Productividad y competitividad de las empresas colombianas",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de implementación del plan turístico",
+                "Udm":"Porcentaje",
+                "Mdc":"50%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Formular el plan turístico del municipio",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N.A.",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Documentos de investigación sobre turismo",
+                "indicador":"Plan turístico del municipio elaborado",
+                "Ods":"8"
+            },{
+                "key":"2",
+                "meta":"Capacitar a los funcionarios encargados de servicios turísticos",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"4",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de educación informal en asuntos turísticos",
+                "indicador":"Capacitaciones realizadas",
+                "Ods":"8"   
+            },{
+                "key":"3",
+                "meta":"Adecuar senderos ecológicos en el municipio  ",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N.A.",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Sendero turístico mejorado",
+                "indicador":"Senderos Mejorados",
+                "Ods":"N/A"
+              },{
+                "key":"4",
+                "meta":"Apoyar iniciativas en el marco de la economía circular",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N.A.",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicios de apoyo para el fomento de capacidades en economía circular y sostenibilidad",
+                "indicador":"Empresas intervenidas en temas de economía circular y sostenibilidad",
+                "Ods":"N/A"  
+              },{
+                "key":"5",
+                "meta":"Apoyar  la asociatividad productiva y comercial en el municipio",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"4",
+                "responsable":"Secretaria de Gobierno",
+                "producto":"Servicio de asistencia técnica y acompañamiento productivo y empresarial",
+                "indicador":"Asociatividad productiva y comercial apoyadas",
+                "Ods":"8" 
+              }]     
+            }]
+        },{
+            "keys":"3",
+            "Sector": "TRANSPORTE ",
+            "Programas":[{
+              "keyp":"1",
+              "Programapdd": "MEJORES VÍAS MAYOR PROGRESO",
+              "Programa": "2402 Infraestructura red vial regional",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Vías regionales con niveles de servicio adecuados",
+                "Udm":"Porcentaje",
+                "Mdc":"80%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Realizar el mantenimiento a vías terciarias del municipio. ",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"90,81",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Vía terciaria con mantenimiento periódico o rutinario",
+                "indicador":"Vía terciaria con mantenimiento ",
+                "Ods":"9"
+              },{
+                "key":"2",
+                "meta":"Construir placa huellas en las vías terciarias.",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"5.000",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Placa huella construida ",
+                "indicador":"Vía terciaria mejorada",
+                "Ods":"9"   
+              },{
+                "key":"3",
+                "meta":"Adquirir una retroexcavadora de llantas y una volqueta sencilla",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"3",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Vía terciaria con mantenimiento periódico o rutinario",
+                "indicador":"Maquinaria adquirida",
+                "Ods":"9"
+              },{
+                "key":"4",
+                "meta":"Realizar  mantenimientos a la maquinaria amarilla propiedad del municipio.",
+                "tmeta":"MANTENIMIENTO",
+                "Lineabase":"5",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Vía terciaria con mantenimiento periódico o rutinario",
+                "indicador":"Maquinaria amarilla con mantenimiento",
+                "Ods":"9"  
+              },{
+                "key":"5",
+                "meta":"Realizar el mejoramiento de las vías urbanas del centro poblado San Roque  ",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Vía urbana mejorada",
+                "indicador":"Vía urbana mejorada ",
+                "Ods":"9"
+              },{
+                "key":"6",
+                "meta":"Realizar mejoramientos a los puentes vehiculares en el municipio ",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"15",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Puente de la red vial terciaria con mantenimiento",
+                "indicador":"Puentes de la red terciaria con mantenimiento",
+                "Ods":"9"   
+              },{
+                "key":"7",
+                "meta":"Realizar el mejoramiento de caminos veredales ",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"30",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Caminos ancestrales mejorados",
+                "indicador":"Caminos ancestrales mejorados",
+                "Ods":"9"
+              },{
+                "key":"8",
+                "meta":"Realizar la construcción de puentes vehicular",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"16,7",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Puente construido en vía terciaria",
+                "indicador":"Puente construido en vía terciaria existente",
+                "Ods":"9"  
+              },{
+                "key":"9",
+                "meta":"Realizar el mejoramiento de la vía Gama-Gacheta",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"10,7",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Vía secundaria mejorada",
+                "indicador":"Vía secundaria mejorada",
+                "Ods":"9"
+              },{
+                "key":"10",
+                "meta":"Realizar el mejoramiento de las vías urbanas del municipio ",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"2",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Vía urbana mejorada",
+                "indicador":"Vía urbana mejorada ",
+                "Ods":"9"  
+              },{
+                "key":"11",
+                "meta":"Construir obras de arte en las vías rurales",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"45",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Vía terciaria rehabilitada",
+                "indicador":"Alcantarillas rehabilitadas",
+                "Ods":"9"
+            }]     
+            }]
+        },{
+            "keys":"4",
+            "Sector": "AGROPECUARIO",
+            "Programas":[{
+              "keyp":"1",
+              "Programapdd": "CAMPO PRODUCTIVO Y COMPETITIVO",
+              "Programa": "1702 Inclusión productiva de pequeños productores rurales",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de plan de acción obligatorio implementado ",
+                "Udm":"Porcentaje",
+                "Mdc":"100%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Realizar  visitas  técnicas solicitadas por los pequeños productores en los sistemas de producción agrícola",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"200",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de asistencia técnica agropecuaria dirigida a pequeños productores",
+                "indicador":"Pequeños productores rurales asistidos técnicamente",
+                "Ods":"2"
+              },{
+                "key":"2",
+                "meta":"Implementar proyectos silvopastoriles en el municipio ",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de fortalecimiento de capacidades locales",
+                "indicador":"Proyecto de producción silvopastoril implementada",
+                "Ods":"2"   
+              },{
+                "key":"3",
+                "meta":"Apoyar a usuarios en la implementación de sistemas de producción pecuaria con especies menores. ",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"20",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de apoyo para el fomento organizativo de la Agricultura Campesina, Familiar y Comunitaria",
+                "indicador":"Productores agropecuarios apoyados",
+                "Ods":"2"
+              },{
+                "key":"4",
+                "meta":"Fortalecer  las asociaciones de productores legalmente constituidas",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"1",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de asesoría para el fortalecimiento de la asociatividad",
+                "indicador":"Asociaciones fortalecidas",
+                "Ods":"2"  
+              },{
+                "key":"5",
+                "meta":"Capacitar a  personas en buenas practicas agropecuarias",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"30",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de educación informal en Buenas Prácticas Agrícolas y producción sostenible",
+                "indicador":"Personas capacitadas",
+                "Ods":"2"
+              },{
+                "key":"6",
+                "meta":"Realizar un proyecto de Apicultura",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de apoyo financiero para proyectos productivos",
+                "indicador":"Proyectos productivos cofinanciados",
+                "Ods":"2"   
+              },{
+                "key":"7",
+                "meta":"Implementar un proyecto de aguacate para apoyar pequeños productores ",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de apoyo financiero para proyectos productivos",
+                "indicador":"Pequeños productores apoyados",
+                "Ods":"2"
+              },{
+                "key":"8",
+                "meta":"Adecuar un centro de acopio para productos agropecuarios.  ",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Centros de acopio adecuados",
+                "indicador":"Centros de acopio adecuados",
+                "Ods":"2"  
+              },{
+                "key":"9",
+                "meta":"Realizar  mantenimientos a la maquinaria agrícola existente en el Municipio  ",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"2",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de apoyo para el acceso a maquinaria y equipos",
+                "indicador":"Maquinaria  con mantenimiento",
+                "Ods":"2"
+              },{
+                "key":"10",
+                "meta":"Adquirir maquinaria agrícola",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"N/A",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de apoyo para el acceso a maquinaria y equipos",
+                "indicador":"Maquinaria adquirida",
+                "Ods":"2"  
+              },{
+                "key":"11",
+                "meta":"Realizar actividades para festejar el día del Campesino Gánense",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"4",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de apoyo para el fomento organizativo de la Agricultura Campesina, Familiar y Comunitaria",
+                "indicador":"Actividades para el día del campesino",
+                "Ods":"2"
+                }]  
+            },{
+              "keyp":"2",
+              "Programapdd": "CAMPO PRODUCTIVO Y COMPETITIVO",
+              "Programa": "1704 Ordenamiento social y uso productivo del territorio rural",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de plan de acción obligatorio implementado ",
+                "Udm":"Porcentaje",
+                "Mdc":"100%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Realizar  campañas que fomenten el buen trato hacia los animales",
+                "tmeta":"INCREMENTO",
+                "Lineabase":"2",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de divulgación",
+                "indicador":"Número de campañas",
+                "Ods":"N/A"
+            }]   
+            },{
+              "keyp":"3",
+              "Programapdd": "CAMPO PRODUCTIVO Y COMPETITIVO",
+              "Programa": "1706 Aprovechamiento de mercados externos",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de plan de acción obligatorio implementado ",
+                "Udm":"Porcentaje",
+                "Mdc":"100%"
+            }],
+            "Todoproducto":[{
+                "key":"1",
+                "meta":"Mantener anualmente la asistencia técnica- Extensión rural , Agropecuaria en los Sistemas de  Producción Pecuaria y Agrícolas",
+                "tmeta":"MANTENIMIENTO",
+                "Lineabase":"94%",
+                "responsable":"Secretaria de planeación y Obras Públicas",
+                "producto":"Servicio de extensión agropecuaria",
+                "indicador":"Servicio de extensión agropecuaria mantenido",
+                "Ods":"2"
+             }]
+            },{
+              "keyp":"4",
+              "Programapdd": "CAMPO PRODUCTIVO Y COMPETITIVO",
+              "Programa": "1707 Sanidad agropecuaria e inocuidad agroalimentaria",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de plan de acción obligatorio implementado ",
+                "Udm":"Porcentaje",
+                "Mdc":"100%"
+            }],
+            "Todoproducto":[{
+              "key":"1",
+              "meta":"Formular el Plan de Extensión Rural Agropecuaria Municipal",
+              "tmeta":"INCREMENTO",
+              "Lineabase":"N/A",
+              "responsable":"Secretaria de planeación y Obras Públicas",
+              "producto":"Documentos de planeación",
+              "indicador":"Planes operativos de ordenamiento productivo formulados",
+              "Ods":"2"
+            },{
+              "key":"2",
+              "meta":"Organizar ferias agropecuarias que promuevan el sector",
+              "tmeta":"INCREMENTO",
+              "Lineabase":"10",
+              "responsable":"Secretaria de planeación y Obras Públicas",
+              "producto":"Servicio de apoyo financiero para la organización de ferias nacionales e internacionales",
+              "indicador":"Ferias nacionales e internacionales organizadas",
+              "Ods":"2"
+            },{
+              "key":"3",
+              "meta":"Realizar jornadas de esterilización canina y felina",
+              "tmeta":"INCREMENTO",
+              "Lineabase":"2",
+              "responsable":"Secretaria de planeación y Obras Públicas",
+              "producto":"Servicio de prevención y control de enfermedades",
+              "indicador":"Jornadas de esterilización",
+              "Ods":"2"
+            },{
+              "key":"4",
+              "meta":"Apoyar parcelas de cultivos tradicionales, implementando los principios básicos de conservación",
+              "tmeta":"INCREMENTO",
+              "Lineabase":"200",
+              "responsable":"Secretaria de planeación y Obras Públicas",
+              "producto":"Parcelas, módulos y unidades demostrativas adecuadas",
+              "indicador":"Parcelas de cultivos tradicionales apoyadas",
+              "Ods":"2"
+            }]
+            },{
+              "keyp":"5",
+              "Programapdd": "CAMPO PRODUCTIVO Y COMPETITIVO",
+              "Programa": "1708 Ciencia, tecnología e innovación agropecuaria",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de plan de acción obligatorio implementado ",
+                "Udm":"Porcentaje",
+                "Mdc":"100%"
+            }],
+            "Todoproducto":[{
+              "key":"1",
+              "meta":"Realizar mejoramiento genético",
+              "tmeta":"INCREMENTO",
+              "Lineabase":"234",
+              "responsable":"Secretaria de planeación y Obras Públicas",
+              "producto":"Especies animales y vegetales mejoradas",
+              "indicador":"Animales mejorados genéticamente",
+              "Ods":"2"
+            }] 
+            },{
+              "keyp":"6",
+              "Programapdd": "CAMPO PRODUCTIVO Y COMPETITIVO",
+              "Programa": "1708 Ciencia, tecnología e innovación agropecuaria",
+              "Todobien": [{
+                "key":"1",
+                "indibien":"Porcentaje de plan de acción obligatorio implementado ",
+                "Udm":"Porcentaje",
+                "Mdc":"100%"
+            }],
+            "Todoproducto":[{
+              "key":"1",
+              "meta":"Realizar ciclos de vacunación y desparasitación bovina",
+              "tmeta":"INCREMENTO",
+              "Lineabase":"3498",
+              "responsable":"Secretaria de planeación y Obras Públicas",
+              "producto":"Servicios de vacunación para especies animales de interés agropecuario",
+              "indicador":"Animales vacunado",
+              "Ods":"2"
+            },{
+              "key":"2",
+              "meta":"Apoyar   parcelas  frutales",
+              "tmeta":"INCREMENTO",
+              "Lineabase":"50",
+              "responsable":"Secretaria de planeación y Obras Públicas",
+              "producto":"Parcelas, módulos y unidades demostrativas adecuadas",
+              "indicador":"Número de parcelas",
+              "Ods":"2"
+            },{
+              "key":"3",
+              "meta":"Desarrollar proyectos de seguridad alimentaria ",
+              "tmeta":"INCREMENTO",
+              "Lineabase":"N/A",
+              "responsable":"Secretaria de planeación y Obras Públicas",
+              "producto":"Servicios de apoyo financiero para proyectos de generación de ingresos",
+              "indicador":"Familias con proyectos de seguridad alimentaria implementados",
+              "Ods":"2"
+            }]       
+            }]
+        }]
+    },{
+        "Linea":"SOCIAL",
+        "Sectores":[{
+            "keys":"1",
+            "Sector": "EDUCACION",
+            "Programas":[{
+                "keyp":"1",
+                "Programapdd": "EDUCANDO EL FUTURO",
+                "Programa":"2201 Calidad, cobertura y fortalecimiento de la educación inicial, prescolar, básica y media",
+                "Todobien": [{
+                  "key":"1",
+                  "indibien": "Cobertura neta en la educación inicial, preescolar, básica y media",
+                  "Udm":"Porcentaje",
+                  "Mdc":"76,97%"
+                }],
+                "Todoproducto": [{
+                  "key": "1",
+                  "meta": "Mantener a los  NNA con el servicio de transporte escolar",
+                  "tmeta": "MANTENIMIENTO",
+                  "Lineabase": "205",
+                  "responsable":"Secretaria de Gobierno",
+                  "producto": "Servicio de apoyo técnico para la implementación de acciones de mitigación y adaptación al cambio climático",
+                  "indicador": "Documentos con las acciones de mitigación y adaptación al cambio climático formulados",
+                  "Ods": "4 y 10"
+                },{
+                  "key": "2",
+                  "meta": "Mantener a los  NNA con el servicio de transporte escolar",
+                  "tmeta": "MANTENIMIENTO",
+                  "Lineabase": "515",
+                  "responsable":"Secretaria de Gobierno",
+                  "producto": "Servicio de apoyo técnico para la implementación de acciones de mitigación y adaptación al cambio climático",
+                  "indicador": "Beneficiarios de  alimentación escolar ",
+                  "Ods": "1,2,4 y 10"
+                },{
+                  "key": "3",
+                  "meta": "Dotar sedes educativas Urbanas y rurales del Municipio",
+                  "tmeta": "INCREMENTO",
+                  "Lineabase": "N.A",
+                  "responsable":"Secretaria de Gobierno",
+                  "producto": " Infraestructura educativa dotada",
+                  "indicador": "Sedes dotadas",
+                  "Ods": "4"
+                },{
+                  "key": "4",
+                  "meta": "Realizar anualmente el giro de calidad (gratuidad) a las instituciones educativas",
+                  "tmeta": "MANTENIMIENTO",
+                  "Lineabase": "1",
+                  "responsable":"Secretaria de Gobierno",
+                  "producto": "Servicio de asistencia técnica en educación inicial, preescolar, básica y media",
+                  "indicador": "Giros realizados a las instituciones educativas de gratuidad",
+                  "Ods": "1 y 4"
+                },{
+                  "key": "5",
+                  "meta": "Realizar mejoramiento a sedes educativas del municipio",
+                  "tmeta": "INCREMENTO",
+                  "Lineabase": "17",
+                  "responsable":"Secretaria de Gobierno",
+                  "producto": "Infraestructura educativa mejorada",
+                  "indicador": "Sedes educativas mejoradas ",
+                  "Ods": "4 y 9"
+                }]
+            },{
+                "keyp":"2",
+                "Programapdd": "EDUCANDO EL FUTURO",
+                "Programa":"2202 Calidad y fomento de la educación superior",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Tasas pruebas saber 11",
+                    "Udm":"Porcentaje",
+                    "Mdc":"50,38 matemáticas - 50,66 en lectura critica"
+                }],
+                "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Realizar estrategias para que estudiantes tengan la posibilidad  y el acceso a su formación académica en validación, técnica, tecnológica y profesional.",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "indicador": "Estrategias realizadas para el acceso a la formación académica",
+                    "Ods": "1,4 y 8"
+                },{
+                    "key": "2",
+                    "meta": "Realizar anualmente un estímulo a  estudiantes para el acceso a educación superior",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de apoyo financiero para la permanencia a la educación superior o terciaria",
+                    "indicador": "Estímulos realizados para el acceso a educación superior",
+                    "Ods": "1,4 y 8"
+                },{
+                    "key": "3",
+                    "meta": "Mantener anualmente dos estímulos a los  mejores estudiantes de grado 11",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "2",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de apoyo financiero para la permanencia a la educación superior o terciaria",
+                    "indicador": "Beneficiarios de estrategias o programas de  apoyo financiero para la permanencia en la educación superior  o terciaria  - Mejores Bachilleres",
+                    "Ods": "4"
+                }]
+            }]
+        },{
+            "keys":"2",
+            "Sector": "SALUD Y PROTECCION SOCIAL",
+            "Programas":[{
+                "keyp":"1",
+                "Programapdd":"SALUD INTEGRAL Y DE CALIDAD PARA TODOS LOS GAMENSES",
+                "Programa":"1901 Salud pública y prestación de servicios",
+                "Todobien": [{
+                  "key":"1",
+                  "indibien": "Porcentaje de población afiliada al sistema de Salud",
+                  "Udm":"Porcentaje",
+                  "Mdc":"100%"
+                }],
+                "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Realizar el mejoramiento de la infraestructura física del centro de salud del municipio para mantener su habilitación",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Infraestructura hospitalaria de nivel 1 con mantenimiento",
+                    "indicador": "Infraestructuras hospitalarias de nivel 1 con mantenimiento",
+                    "Ods": "3"
+                },{
+                    "key": "2",
+                    "meta": "Realizar campañas de vacunación para la cobertura a niños, mujeres en estado de gestación y adultos mayores",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "14",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de gestión del riesgo para enfermedades inmunoprevenibles",
+                    "indicador": "Campañas de gestión del riesgo para enfermedades inmunoprevenibles  implementadas",
+                    "Ods": "3"
+                },{
+                    "key": "3",
+                    "meta": "Promover acciones personales y colectivas para una vida saludable controlando las enfermedades no transmisibles",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "1900",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de promoción de vida saludable y condiciones no transmisibles",
+                    "indicador": "Campañas de promoción de vida saludable y condiciones no transmisibles implementadas",
+                    "Ods": "3"
+                },{
+                    "key": "4",
+                    "meta": "Realizar Campañas para la promoción de la salud mental y convivencia",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "2",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de promoción en temas de salud mental y convivencia",
+                    "indicador": "Campañas de promoción en temas de salud mental y convivencia implementadas",
+                    "Ods": "3"
+                },{
+                    "key": "5",
+                    "meta": "Implementar acciones de promoción para una alimentación sana y de calidad",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de gestión del riesgo para temas de consumo y aprovechamiento biológico de los alimentos, calidad e inocuidad de los alimentos",
+                    "indicador": "Campañas de gestión del riesgo para temas de consumo y aprovechamiento biológico de los alimentos, calidad e inocuidad de los alimentos implementadas",
+                    "Ods": "3"
+                },{
+                    "key": "6",
+                    "meta": "Realizar campañas para la promoción de los derechos sexuales y reproductivos y equidad de género",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "35",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de promoción de los derechos sexuales y reproductivos y la equidad de género",
+                    "indicador": "Campañas de promoción de los derechos sexuales y reproductivos y la equidad de género implementadas",
+                    "Ods": "3"
+                },{
+                    "key": "7",
+                    "meta": "Coordinar campañas de promoción en temas de hábitat saludable",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de promoción en temas de hábitat saludable",
+                    "indicador": "Campañas de promoción en temas de hábitat saludable implementadas",
+                    "Ods": "3"
+                },{
+                    "key": "8",
+                    "meta": "Implementar campañas  de promoción y prevención orientadas a la población vulnerable",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "800",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de divulgación y comunicación de estrategias de salud y promoción social",
+                    "indicador": "Campañas de promoción y prevención producidas",
+                    "Ods": "3"
+                },{
+                    "key": "9",
+                    "meta": "Realizar Campañas de gestión del riesgo para abordar situaciones de salud relacionadas con condiciones ambientales",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de gestión del riesgo para abordar situaciones de salud relacionadas con condiciones ambientales",
+                    "indicador": "Campañas de gestión del riesgo para abordar situaciones de salud relacionadas con condiciones ambientales implementadas",
+                    "Ods": "3"
+                },{
+                    "key": "10",
+                    "meta": "Aplicar la estrategia de la regulación, conducción y gestión en salud pública mediante el fortalecimiento de la autoridad sanitaria",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "2",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de asistencia técnica para el fortalecimiento de procesos de planificación, ejecución y control de los recursos financieros",
+                    "indicador": "Autoridades sanitarias distritales fortalecidas en procesos de planificación, ejecución y control de los recursos financieros.",
+                    "Ods": "3"
+                },{
+                    "key": "11",
+                    "meta": "Realizar el mejoramiento de la Morgue",
+                    "tmeta": "INCREMENTO ",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Morgues Mejoradas",
+                    "indicador": "Morgues Mejoradas",
+                    "Ods": "3"
+                },{
+                    "key": "12",
+                    "meta": "Mantener en 0 la tasa de morbimortalidad por enfermedades transmisibles en el Municipio de Gama",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "0",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "N/A",
+                    "indicador": "n/a",
+                    "Ods": "3"
+                }]
+            },{
+                "keyp":"2",
+                "Programapdd":"SALUD INTEGRAL Y DE CALIDAD PARA TODOS LOS GAMENSES",
+                "Programa":"1903 Inspección, vigilancia y control",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Porcentaje de población afiliada al sistema de Salud",
+                    "Udm":"Porcentaje",
+                    "Mdc":"100%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Realizar la interventoría y/o auditoria  para el buen funcionamiento del régimen subsidiado ",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de auditoría y visitas inspectoras",
+                    "indicador": "auditorías y visitas inspectoras realizadas",
+                    "Ods": "3"
+                  }]
+            },{
+                "keyp":"3",
+                "Programapdd":"SALUD INTEGRAL Y DE CALIDAD PARA TODOS LOS GAMENSES",
+                "Programa":"1901 Salud pública y prestación de servicios",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Porcentaje de población afiliada al sistema de Salud",
+                    "Udm":"Porcentaje",
+                    "Mdc":"100%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Realizar el seguimiento correspondiente al Plan Territorial de Salud",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Documentos de planeación",
+                    "indicador": "Planes de salud pública elaborados",
+                    "Ods": "3"
+                  },{
+                    "key": "2",
+                    "meta": "Realizar campañas de promoción de la salud y prevención de la enfermedad en la zona urbana y rural del municipio",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "20",
+                    "responsable":"Secretaria de Gobierno - PIC",
+                    "producto": "Servicios de promoción de la salud  y prevención de riesgos asociados a condiciones no transmisibles",
+                    "indicador": "Campañas de promoción de la salud  y prevención de riesgos asociados a condiciones no transmisibles implementadas",
+                    "Ods": "3"
+                  }]
+            },{
+                "keyp":"4",
+                "Programapdd":"SALUD INTEGRAL Y DE CALIDAD PARA TODOS LOS GAMENSES",
+                "Programa":"1902 Aseguramiento y administración del SGSSS  en Salud",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Porcentaje de población afiliada al sistema de Salud",
+                    "Udm":"Porcentaje",
+                    "Mdc":"100%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Mantener la afiliación a los servicios de salud para los usuarios de los diferentes regímenes",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "2.980",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de atención en salud a la población",
+                    "indicador": "Personas atendidas con servicio de salud",
+                    "Ods": "3"
+                  }]
+            }]
+        },{
+            "keys":"3",
+            "Sector": "CULTURA",
+            "Programas":[{
+                "keyp":"1",
+                "Programapdd":"CULTIVANDO ARTE",
+                "Programa":"3301 Promoción y acceso efectivo a procesos culturales y artísticos",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Acceso de la población del municipio a espacios culturales",
+                    "Udm":"Porcentaje",
+                    "Mdc":"20%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Mantener las  escuelas de danzas y música en funcionamiento ",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "2",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de educación formal al sector artístico y cultural",
+                    "indicador": "Escuelas de formación  cultural mantenidas",
+                    "Ods": "3"
+                  },{
+                    "key": "2",
+                    "meta": "Dotar anualmente las escuelas de formación artística con elementos necesarios para su funcionamiento ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de promoción de actividades culturales",
+                    "indicador": "Dotaciones realizadas a las escuelas de formación",
+                    "Ods": "3"
+                  },{
+                    "key": "3",
+                    "meta": "Ejecutar  eventos y festividades  culturales y artísticas  en el municipio dirigidos a toda la comunidad",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "28",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de promoción de actividades culturales",
+                    "indicador": "Eventos de promoción de actividades culturales realizados",
+                    "Ods": "3"
+                  },{
+                    "key": "4",
+                    "meta": "Entregar dotaciones a la  ludoteca municipal ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Centros culturales construidos y dotados",
+                    "indicador": "Dotaciones realizadas a la ludoteca",
+                    "Ods": "9"
+                  },{
+                    "key": "5",
+                    "meta": "Realizar la formulación del plan decenal de cultura",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Documentos de LÍNEAmientos técnicos",
+                    "indicador": "Documentos de LÍNEAmientos técnicos realizados",
+                    "Ods": "11"
+                  },{
+                    "key": "6",
+                    "meta": "Realizar estudios y diseños de infraestructura cultural ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Estudios y diseños de infraestructura cultural",
+                    "indicador": "Estudios y diseños elaborados",
+                    "Ods": "11"
+                  },{
+                    "key": "7",
+                    "meta": "Crear una nueva escuela de formación Artística y/o Cultural para el Municipio ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de fomento para el acceso de la oferta cultural",
+                    "indicador": "Escuelas de formación creadas",
+                    "Ods": "11"
+                  },{
+                    "key": "8",
+                    "meta": "Realizar mantenimiento y/o adecuación de los escenarios culturales del municipio. ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de mantenimiento de infraestructura cultural",
+                    "indicador": "Infraestructura cultural intervenida",
+                    "Ods": "9"
+                  },{
+                    "key": "9",
+                    "meta": "Apoyar  a grupos artísticos y culturales del Municipio ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "8",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de apoyo para la organización y la participación del sector artístico, cultural y la ciudadanía",
+                    "indicador": "Encuentros realizados",
+                    "Ods": "11"
+                  }]
+            },{
+                "keyp":"2",
+                "Programapdd":"CULTIVANDO ARTE",
+                "Programa":"3301 Promoción y acceso efectivo a procesos culturales y artísticos",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Personas Lectoras",
+                    "Udm":"Porcentaje",
+                    "Mdc":"100%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Realizar el pago del ludo educador  ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de asistencia técnica en asuntos de gestión de bibliotecas públicas y lectura.",
+                    "indicador": "Asistencias técnicas en asuntos de gestión de bibliotecas públicas y lectura realizadas",
+                    "Ods": "3"
+                  },{
+                    "key": "2",
+                    "meta": "Realizar actividades de promoción de lectura y extensión Bibliotecaria en el Municipio ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "12",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicios bibliotecarios",
+                    "indicador": "Actividades de promoción de lectura y extensión realizadas",
+                    "Ods": "3"
+                  }]
+            }]
+        },{
+            "keys":"4",
+            "Sector": "DEPORTE Y RECREACION",
+            "Programas":[{
+                "keyp":"1",
+                "Programapdd": "MÁS DEPORTE MÁS VIDA",
+                "Programa":"4301 Fomento a la recreación, la actividad física y el deporte",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Población que realiza actividad física en su tiempo libre",
+                    "Udm":"Porcentaje",
+                    "Mdc":"100%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Mantener las  escuelas de formación deportiva y recreativa en el municipio",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "3",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de Escuelas Deportivas",
+                    "indicador": "Disciplinas por Escuela Deportiva",
+                    "Ods": "3 y 4"
+                  },{
+                    "key": "2",
+                    "meta": "Realizar vacaciones recreativas ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "8",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de organización de eventos recreativos comunitarios",
+                    "indicador": "Eventos recreativos comunitarios realizados",
+                    "Ods": "3"
+                  },{
+                    "key": "3",
+                    "meta": "Realizar eventos recreo deportivos en el Municipio ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de administración de la infraestructura deportiva",
+                    "indicador": "Eventos  realizados en la infraestructura deportiva",
+                    "Ods": "3"
+                  },{
+                    "key": "4",
+                    "meta": "Realizar eventos de  juegos comunales,  Inter verdales e interadministrativos en el municipio ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "6",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de organización de eventos deportivos comunitarios",
+                    "indicador": "Eventos deportivos comunales e Inter veredales realizados",
+                    "Ods": "3"
+                  },{
+                    "key": "5",
+                    "meta": "Realizar  torneos deportivos intermunicipales  ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "7",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de organización de eventos recreativos comunitarios",
+                    "indicador": "Torneos intermunicipales realizados",
+                    "Ods": "3"
+                  },{
+                    "key": "6",
+                    "meta": "Realizar una dotación   de implementos deportivos para la formación deportiva y recreativa ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "3",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de apoyo a la actividad física, la recreación y el deporte",
+                    "indicador": "Artículos deportivos entregados",
+                    "Ods": "11"
+                  },{
+                    "key": "7",
+                    "meta": "Construir la Segunda fase del proyecto del parque la Pola ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Parques recreativos construidos",
+                    "indicador": "Parques construidos",
+                    "Ods": "9"
+                  },{
+                    "key": "8",
+                    "meta": "Realizar  estudios y diseños para infraestructura deportiva y recreativa en el municipio ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Estudios y diseños de infraestructura recreo-deportiva",
+                    "indicador": "Estudios y diseños elaborados",
+                    "Ods": "9"
+                  },{
+                    "key": "9",
+                    "meta": "Realizar mantenimientos a los escenarios deportivos y/o recreativos",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "20",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Parques recreativos mantenidos",
+                    "indicador": "Parques recreativos mantenidos",
+                    "Ods": "9"
+                  },{
+                    "key": "10",
+                    "meta": "Crear una escuela de formación deportiva en el cuatrienio ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de Escuelas Deportivas",
+                    "indicador": "Escuelas deportivas implementadas",
+                    "Ods": "3"
+                  },{
+                    "key": "11",
+                    "meta": "Apoyar  anualmente a la institución educativa en los Juegos Supérate Intercolegiados",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de promoción de la actividad física, la recreación y el deporte",
+                    "indicador": "Instituciones educativas vinculadas al programa Supérate-Intercolegiados",
+                    "Ods": "3"
+                  },{
+                    "key": "12",
+                    "meta": "Otorgar anualmente un estimulo al deportista más sobresaliente del año del Municipio ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de apoyo a la actividad física, la recreación y el deporte",
+                    "indicador": "Estímulos entregados",
+                    "Ods": "3"
+                  },{
+                    "key": "13",
+                    "meta": "Apoyar a los clubes deportivos ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de Escuelas Deportivas",
+                    "indicador": "Clubes deportivos apoyados",
+                    "Ods": "3"
+                  }]
+            },{
+                "keyp":"2",
+                "Programapdd": "MÁS DEPORTE MÁS VIDA",
+                "Programa":"4302 Formación y preparación de deportistas",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Población que realiza actividad física en su tiempo libre",
+                    "Udm":"Porcentaje",
+                    "Mdc":"100%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Apoyar a deportistas de alto rendimiento del Municipio en eventos",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de organización de eventos deportivos de alto rendimiento",
+                    "indicador": "Deportistas que participan en eventos deportivos de alto rendimiento con sede en Colombia ",
+                    "Ods": "3"
+                  },{
+                    "key": "2",
+                    "meta": " Construir la pista atlética del municipio",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Pistas construidas",
+                    "indicador": "Pistas de atletismo construidas",
+                    "Ods": "3"
+                  },{
+                    "key": "3",
+                    "meta": "Realizar la construcción de cubiertas",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Coliseos cubiertos adecuados",
+                    "indicador": "Coliseos adecuados",
+                    "Ods": "3"
+                  },{
+                    "key": "4",
+                    "meta": "Construir un escenario deportivo y recreativo en el municipio",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Polideportivos construidos",
+                    "indicador": "Polideportivos construidos",
+                    "Ods": "9"
+                  }]
+            }]
+        },{
+            "keys":"5",
+            "Sector": "INCLUSION SOCIAL",
+            "Programas":[{
+                "keyp":"1",
+                "Programapdd": "TEJIENDO HILOS DE PAZ",
+                "Programa":"4101 Atención, asistencia y reparación integral a las víctimas",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Política Pública formulada",
+                    "Udm":"Número",
+                    "Mdc":"1"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Brindar atención permanente a la población víctima del conflicto armado interno (PVCAI), a través de un enlace de victimas orientado a cada una de las actividades ",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de ayuda y atención humanitaria",
+                    "indicador": "Persona brindado atención permanente a la población victima del conflicto armado interno",
+                    "Ods": "10 y 16"
+                  },{
+                    "key": "2",
+                    "meta": "Realizar anualmente los tramites pertinentes para ayuda humanitaria inmediata ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de ayuda y atención humanitaria",
+                    "indicador": "Ayuda humanitaria inmediata realizados",
+                    "Ods": "10 y 16"
+                  },{
+                    "key": "3",
+                    "meta": "Realizar anualmente los tramites pertinentes para ayuda humanitaria de emergencia",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de ayuda y atención humanitaria",
+                    "indicador": "Ayuda humanitaria de emergencia realizados",
+                    "Ods": "10 y 16"
+                  },{
+                    "key": "4",
+                    "meta": "Realizar anualmente los tramites pertinentes para ayuda humanitaria de transitoria",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de ayuda y atención humanitaria",
+                    "indicador": "Ayuda humanitaria transitoria realizados",
+                    "Ods": "10 y 16"
+                  },{
+                    "key": "5",
+                    "meta": "Garantizar 4 mesas  técnicas municipales de participación de victimas",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de asistencia técnica para la participación de las víctimas",
+                    "indicador": "Mesas de participación en funcionamiento",
+                    "Ods": "10 y 16"
+                  },{
+                    "key": "6",
+                    "meta": "Otorgar  Auxilios funerarios a población víctima ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "0",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": " Servicio de asistencia funeraria",
+                    "indicador": "Hogares subsidiados en asistencia funeraria ",
+                    "Ods": "10 y 16"
+                  },{
+                    "key": "7",
+                    "meta": "Elaborar la política publica de victimas local",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Documentos de diagnóstico y/o caracterización del daño colectivo",
+                    "indicador": "Documento elaborado",
+                    "Ods": "1, 10 y 16"
+                  },{
+                    "key": "8",
+                    "meta": "Realizar proyectos de seguridad alimentaria, huertas caseras  y/o productivos para la población victima",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de apoyo para las unidades productivas para el autoconsumo de hogares desplazados o en riesgo de desplazamiento, retornados o reubicados",
+                    "indicador": "Unidades productivas para el autoconsumo instaladas / Hogares con unidades productivas para autoconsumo instaladas",
+                    "Ods": "10 y 16"
+                  },{
+                    "key": "9",
+                    "meta": "Realizr los comites  territoriales de justicia transicional",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de asistencia técnica para la participación de las víctimas",
+                    "indicador": "Reuniones territoriales realizadas",
+                    "Ods": "10 y 16"
+                  },{
+                    "key": "10",
+                    "meta": "Realizar asistencia en procesos de orientación jurídica y psicosocial a la población victima",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "108",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de asistencia técnica para la participación de las víctimas",
+                    "indicador": "Víctimas orientadas en procesos jurídicos de restitución de tierras",
+                    "Ods": "10 y 16"
+                  }]
+            },{
+                "keyp":"2",
+                "Programapdd": "UNIDOS POR LOS NIÑOS, NIÑAS Y JÓVENES",
+                "Programa":"4102 Desarrollo Integral de Niños, Niñas, Adolescentes y sus Familias",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Porcentaje de implementación de política publica de infancia y adolescencia",
+                    "Udm":"Porcentaje",
+                    "Mdc":"70%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Realizar sesiones educativas en reconocimiento de los derechos de niños, niñas y adolescentes, prevención del abuso sexual y maltrato infantil",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de gobierno",
+                    "producto": "Servicio dirigidos a la atención de niños, niñas, adolescentes y jóvenes, con enfoque pedagógico y restaurativo encaminados a la inclusión social",
+                    "indicador": "Servicio dirigidos a la atención de niños, niñas, adolescentes y jóvenes, con enfoque pedagógico y restaurativo encaminados a la inclusión social.",
+                    "Ods": "1,3,4,5 y 6"
+                  },{
+                    "key": "2",
+                    "meta": "Prestar  el servicio requerido de los NNA de acuerdo a sus necesidades",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio dirigidos a la atención de niños, niñas, adolescentes y jóvenes, con enfoque pedagógico y restaurativo encaminados a la inclusión social",
+                    "indicador": "Niños, niñas, adolescentes y jóvenes atendidos en los servicios de restablecimiento en la administración de justicia",
+                    "Ods": "1,3,4,5 y 6"
+                  },{
+                    "key": "3",
+                    "meta": "Realizar la celebración del día internacional de la erradicación del trabajo infantil ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Edificaciones de atención a la primera infancia dotadas",
+                    "indicador": "Edificaciones de atención a la primera infancia dotadas",
+                    "Ods": "1,3,4,5 y 6"
+                  },{
+                    "key": "4",
+                    "meta": "Realizar seguimiento al 100% de los procesos de desnutrición que se presenten en el Municipio",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "100%",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de atención y prevención a la desnutrición desde el sector inclusión social",
+                    "indicador": "Porcentaje de requerimientos de desnutrición atendidos",
+                    "Ods": "1,3,4,5 y 6"
+                  },{
+                    "key": "5",
+                    "meta": "Realizar  campañas  para prevenir y reducir la deserción escolar",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de divulgación para la promoción y prevención de los derechos de los niños, niñas y adolescentes",
+                    "indicador": "Eventos de divulgación realizados",
+                    "Ods": "1,3,4,5 y 6"
+                  },{
+                    "key": "6",
+                    "meta": "Realizar charlas dirigidas a estudiantes o padres de familia orientadas a los principales factores de riesgo, que puedan alterar la convivencia familiar ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de educación informal a los agentes educativos",
+                    "indicador": "Número de Charlas realizadas",
+                    "Ods": "1,3,4,5 y 6"
+                  },{
+                    "key": "7",
+                    "meta": "Realizar campañas de educación sexual y derechos reproductivos a los adolescentes y jóvenes del municipio",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "20",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de asistencia técnica para la implementación de estrategias de prevención del embarazo en la adolescencia",
+                    "indicador": "Entes territoriales asistidos técnicamente",
+                    "Ods": "1,3,4,5 y 6"
+                  },{
+                    "key": "8",
+                    "meta": "Realizar charlas de información y sensibilización en la institución educativa sobre responsabilidad penal para adolescentes y prevención en consumo de sustancias psicoactivas ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de promoción de temas de dinámica relacional y desarrollo autónomo",
+                    "indicador": "Número de Charlas realizadas",
+                    "Ods": "1,3,4,5 y 6"
+                  },{
+                    "key": "9",
+                    "meta": "Realizar dotaciones al Centro de desarrollo infantil ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Edificaciones de atención a la primera infancia dotadas",
+                    "indicador": "Edificaciones de atención a la primera infancia dotadas",
+                    "Ods": "1,3,4 y 5"
+                  },{
+                    "key": "10",
+                    "meta": "Mantener el convenio con el centro de protección de responsabilidad penal",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de apoyo financiero para cofinanciación de proyectos territoriales de infraestructura del Sistema de Responsabilidad Penal para Adolescente",
+                    "indicador": "Proyectos de infraestructura del Sistema de Responsabilidad Penal para Adolescente cofinanciados",
+                    "Ods": "1,3,4,5 y 6"
+                  },{
+                    "key": "11",
+                    "meta": "Actualizar e implementar la política pública de infancia y adolescencia ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de asistencia técnica en el ciclo de políticas públicas de infancia y adolescencia",
+                    "indicador": "Entes territoriales asistidos técnicamente ",
+                    "Ods": "1,3,4,5 y 6"
+                  },{
+                    "key": "12",
+                    "meta": "Realizar campañas anuales para la prevención de la conducta suicida",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "2",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de asistencia técnica a comunidades en temas de fortalecimiento del tejido social y construcción de escenarios comunitarios protectores de derechos",
+                    "indicador": "Acciones ejecutadas con las comunidades",
+                    "Ods": "1,3,4,5 y 6"
+                  }]
+            },{
+                "keyp":"3",
+                "Programapdd": "MUJER: EQUILIBRA LA BALANZA",
+                "Programa":"4103 Inclusión social y productiva para la población en situación de vulnerabilidad",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Política Pública formulada",
+                    "Udm":"Número",
+                    "Mdc":"1"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Crear programas productivos y empresariales focalizados a madres cabeza de hogar  ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de gobierno",
+                    "producto": "Servicio de asistencia técnica para fortalecimiento de unidades productivas colectivas para la generación de ingresos",
+                    "indicador": "Programas productivos empresariales creados  para mujeres y madres cabeza de hogar ",
+                    "Ods": "5"
+                  },{
+                    "key": "2",
+                    "meta": "Realizar actividades culturales, deportivas y recreativas para mujeres",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de gestión de oferta social para la población vulnerable",
+                    "indicador": "Número de actividades realizadas",
+                    "Ods": "5"
+                  },{
+                    "key": "3",
+                    "meta": "Realizar el congreso de la mujer Gámense",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de información para la atención de población vulnerable",
+                    "indicador": "Sesiones del congreso",
+                    "Ods": "5"
+                  },{
+                    "key": "4",
+                    "meta": "Realizar charlas informativas en tema de genero y respeto a la diversidad sexual",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "100%",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de información para la atención de población vulnerable",
+                    "indicador": "Número de Charlas realizadas",
+                    "Ods": "5"
+                  },{
+                    "key": "5",
+                    "meta": "Implementar mecanismos para la articulación y seguimiento de las actividades del Consejo Consultivo de Mujeres",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de gestión de oferta social para la población vulnerable",
+                    "indicador": "Mecanismos de articulación implementados para la gestión de oferta social",
+                    "Ods": "5"
+                  }]
+            },{
+                "keyp":"4",
+                "Programapdd": "POR UN TERRITORIO SIN POBREZA",
+                "Programa":"4103 Inclusión social y productiva para la población en situación de vulnerabilidad",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Porcentaje de Disminución de la pobreza extrema ",
+                    "Udm":"Porcentaje",
+                    "Mdc":"61,05%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Realizar talleres sobre educación financiera y acceso al mercado laboral  a población en pobreza y pobreza extrema",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de gobierno",
+                    "producto": "Servicio de acompañamiento familiar y comunitario para la superación de la pobreza",
+                    "indicador": "Talleres de orientación para el bienestar comunitario realizados",
+                    "Ods": "10"
+                  },{
+                    "key": "2",
+                    "meta": "Mantener la ejecución de los procesos del programa más familias en acción",
+                    "tmeta": "MANTEMIENTO ",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicio de apoyo financiero ",
+                    "indicador": "Recursos otorgados",
+                    "Ods": "N/A"
+                  }]
+            },{
+                "keyp":"5",
+                "Programapdd": "POR EL BIENESTAR DE LOS MAYORES",
+                "Programa":"4104 Atencion integral de poblacion en situacion permanente de desproteccion social o familiar",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Politica Pública formulada",
+                    "Udm":"Número",
+                    "Mdc":"1"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Realizar  reuniones con el Comité Municipal de Adulto Mayor",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de gobierno",
+                    "producto": "Servicios de atención y protección integral al adulto mayor",
+                    "indicador": "Reuniones del comité municipal de adulto mayor realizados",
+                    "Ods": "10"
+                  },{
+                    "key": "2",
+                    "meta": "Realizar dotaciones al hogar  del adulto mayor ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Centros de protección social para el adulto mayor dotados",
+                    "indicador": "Centros de protección social para el adulto mayor dotados",
+                    "Ods": "10"
+                  },{
+                    "key": "3",
+                    "meta": "Realizar mantenimiento, adecuación  y/o  ampliación a la infraestructura de la casa del adulto mayor ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Centros de protección social para el adulto mayor adecuados ",
+                    "indicador": "Centros de protección social para el adulto mayor adecuados",
+                    "Ods": "11"
+                  },{
+                    "key": "4",
+                    "meta": "Realizar actividades culturales, deportivas y recreativas para la población de adulto mayor ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicios de atención y protección integral al adulto mayor ",
+                    "indicador": "Actividades culturales y deportivas realizadas",
+                    "Ods": "10"
+                  },{
+                    "key": "5",
+                    "meta": "Disponer del talento humano para el apoyo al desarrollo de actividades para el bienestar del adulto mayor",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicios de educación informal a los cuidadores del adulto mayor",
+                    "indicador": "Cuidadores cualificados",
+                    "Ods": "10"
+                  }]
+            },{
+                "keyp":"6",
+                "Programapdd": "POR UNA POBLACIÓN SIN LIMITES Y CON ACCESO A MÁS OPORTUNIDADES",
+                "Programa":"4104 Atencion integral de poblacion en situacion permanente de desproteccion social o familiar",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Porcentaje de implementación de política publica de personas en situación de discapacidad",
+                    "Udm":"Porcentaje",
+                    "Mdc":"70%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Realizar  entrega  de ayudas  técnicas para la población discapacitada ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "250",
+                    "responsable":"Secretaria de gobierno",
+                    "producto": "Servicios de atención integral a población en condición de discapacidad",
+                    "indicador": "Dotaciones realizadas al banco de ayudas",
+                    "Ods": "10"
+                  },{
+                    "key": "2",
+                    "meta": "Realizar reuniones con el comité de discapacidad municipal",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "16",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicios de atención integral a población en condición de discapacidad",
+                    "indicador": "Reuniones del comité de discapacidad realizadas",
+                    "Ods": "10"
+                  },{
+                    "key": "3",
+                    "meta": "Celebrar anualmente el día Blanco",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicios de atención integral a población en condición de discapacidad",
+                    "indicador": "Celebraciones del día blanco",
+                    "Ods": "10"
+                  },{
+                    "key": "4",
+                    "meta": "Realizar brigadas de atención, orientación y educación a la población en condición de discapacidad ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicios de atención integral a población en condición de discapacidad",
+                    "indicador": "Brigadas de atención",
+                    "Ods": "10"
+                  },{
+                    "key": "5",
+                    "meta": "Actualizar la Política Publica de discapacidad",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de Gobierno",
+                    "producto": "Servicios de atención integral a población en condición de discapacidad",
+                    "indicador": "Documento elaborados de política publica de discapacidad",
+                    "Ods": "10"
+                  }]
+            }]
+        },{
+            "keys":"6",
+            "Sector": "VIVIENDA, CIUDAD Y TERRITORIO",
+            "Programas":[{
+                "keyp":"1",
+                "Programapdd": "CONSTRUYENDO CALIDAD DE VIDA",
+                "Programa":"4001 Acceso a soluciones de vivienda",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Déficit de vivienda cuantitativo",
+                    "Udm":"Porcentaje",
+                    "Mdc":"2,10%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Construir  Viviendas de interés social y/o prioritaria en el Municipio ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "56",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de apoyo financiero para construcción de vivienda en sitio propio",
+                    "indicador": "Hogares beneficiados con construcción de vivienda en sitio propio",
+                    "Ods": "11"
+                  },{
+                    "key": "2",
+                    "meta": "Brindar anualmente apoyo jurídico a la población para otorgar titulación de predios.",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de asistencia técnica y jurídica en saneamiento y titulación de predios",
+                    "indicador": "Asistencias técnicas y jurídicas realizadas",
+                    "Ods": "11"
+                  }]
+            },{
+                "keyp":"2",
+                "Programapdd": "CONSTRUYENDO CALIDAD DE VIDA",
+                "Programa":"4001 Acceso a soluciones de vivienda",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Déficit de vivienda cualitativo",
+                    "Udm":"Porcentaje",
+                    "Mdc":"73,60%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Realizar  mejoramientos de viviendas en el municipio de Gama según priorización ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "66",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de apoyo financiero para mejoramiento de vivienda",
+                    "indicador": "Hogares beneficiados con mejoramiento de una vivienda ",
+                    "Ods": "11"
+                  }]
+            },{
+                "keyp":"3",
+                "Programapdd": "ORDENANDO EL TERRITORIO",
+                "Programa":"4002 Ordenamiento territorial y desarrollo urbano",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Porcentaje de intervención de la Infraestructura publica",
+                    "Udm":"Porcentaje",
+                    "Mdc":"10%"
+                }],
+                "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Realizar mejoramiento de la infraestructura del municipio",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Espacio publico Mejorado",
+                    "indicador": "Espacio Público Mejorado",
+                    "Ods": "11"
+                },{
+                    "key": "2",
+                    "meta": "Realizar estudios y diseños ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Estudios de pre inversión e inversión para la casa de Gobierno",
+                    "indicador": "Estudios o diseños realizados ",
+                    "Ods": "11"
+                },{
+                    "key": "3",
+                    "meta": "Realizar el mantenimiento parque automotor del municipio",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Parque Automotor con mantenimiento",
+                    "indicador": "Número de mantenimientos realizados",
+                    "Ods": "11"
+                },{
+                    "key": "4",
+                    "meta": "Adquirir un vehículo automotor",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Vehículos adquiridos",
+                    "indicador": "Vehículos adquiridos",
+                    "Ods": "11"
+                },{
+                    "key": "5",
+                    "meta": "Realizar adecuación al espacio publico",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Espacio publico adecuado",
+                    "indicador": "Espacio publico adecuado",
+                    "Ods": "11"
+                }]
+            },{
+                "keyp":"4",
+                "Programapdd": "AGUA FUENTE DE SALUD Y VIDA",
+                "Programa":"4003 Acceso de la población a los servicios de agua potable y saneamiento básico",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Porcentaje de usuarios con servicio de acueducto",
+                    "Udm":"Porcentaje",
+                    "Mdc":"42,50%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Realizar mantenimiento a  la  planta de tratamiento de agua potable ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "3",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Acueductos optimizados",
+                    "indicador": "Plantas de tratamiento de agua potable mantenidas",
+                    "Ods": "6"
+                  },{
+                    "key": "2",
+                    "meta": "Realizar anualmente los pagos de subsidios de acueducto a los usuarios inscritos",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de apoyo financiero para subsidios al consumo en los servicios públicos domiciliario",
+                    "indicador": "Pagos de subsidios de acueducto realizados ",
+                    "Ods": "6"
+                  },{
+                    "key": "3",
+                    "meta": "Realizar optimizaciones a los acueductos ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "3",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Acueductos optimizados",
+                    "indicador": "Acueductos optimizados",
+                    "Ods": "6"
+                  },{
+                    "key": "4",
+                    "meta": "Construir el Plan Maestro de Acueducto del Centro Poblado San Roque  ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Acueductos construidos",
+                    "indicador": "Acueductos construido",
+                    "Ods": "6"
+                  },{
+                    "key": "5",
+                    "meta": " Realizar  dotaciones de implementos para el funcionamiento de  los acueductos Veredales ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de Acueducto",
+                    "indicador": "Dotaciones realizadas a los acueductos veredales",
+                    "Ods": "N/A"
+                  },{
+                    "key": "6",
+                    "meta": "Realizar  análisis de calidad del agua de conformidad con la Resolución 2115 de 2007",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "15",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de Acueducto",
+                    "indicador": "Análisis de calidad de agua realizadas",
+                    "Ods": "N/A"
+                  },{
+                    "key": "7",
+                    "meta": "Realizar la implementación del sistema de metrología en el acueducto Urbano ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de Acueducto",
+                    "indicador": "Metrología implementada en el casco urbano",
+                    "Ods": "N/A"
+                  },{
+                    "key": "8",
+                    "meta": "Reportar anualmente la información del Aplicativo del Sistema  Único de Información (SUI) de la superintendencia de servicios domiciliarios ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Documentos de planeación",
+                    "indicador": "Documentos de planeación en políticas de Agua Potable y Saneamiento Básico elaborados",
+                    "Ods": "N/A"
+                  },{
+                    "key": "9",
+                    "meta": "Realizar anualmente la dotación de químicos, equipos, accesorios, elementos de aseo y herramientas para la operación y funcionamiento de la PTAP del área urbana del municipio ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de Acueducto",
+                    "indicador": "Dotaciones realizadas a PTAP urbana",
+                    "Ods": "N/A"
+                  },{
+                    "key": "10",
+                    "meta": "Realizar anualmente los giros al plan departamental de aguas P.D.A",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de apoyo financiero para capitalización de empresas",
+                    "indicador": "Giros realizados al PDA",
+                    "Ods": "6"
+                  }]
+            },{
+                "keyp":"5",
+                "Programapdd": "AGUA FUENTE DE SALUD Y VIDA",
+                "Programa":"4003 Acceso de la población a los servicios de agua potable y saneamiento básico",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Porcentaje de usuarios con servicio de alcantarillado",
+                    "Udm":"Porcentaje",
+                    "Mdc":"32,40%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Realizar una optimización a la PTAR del casco Urbano ",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Alcantarillados optimizados",
+                    "indicador": "Plantas de tratamiento de aguas residuales optimizadas",
+                    "Ods": "6"
+                  },{
+                    "key": "2",
+                    "meta": "Elaborar los estudios y diseños de la red de Alcantarillado en la vereda pauso ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Estudios de pre inversión e inversión",
+                    "indicador": "Estudios o diseños realizados ",
+                    "Ods": "6"
+                  },{
+                    "key": "3",
+                    "meta": "Realizar anualmente los pagos de subsidios de alcantarillado a los usuarios suscritos",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de apoyo financiero para subsidios al consumo en los servicios públicos domiciliarios",
+                    "indicador": "Pagos de subsidios de alcantarillados realizados ",
+                    "Ods": "6"
+                  },{
+                    "key": "4",
+                    "meta": "Construir  sistemas puntuales de tratamiento de agua servidas en el Municipio ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "87",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de Alcantarillado",
+                    "indicador": "Sistemas de aguas servidas construidas",
+                    "Ods": "6"
+                  },{
+                    "key": "5",
+                    "meta": "Implementar anualmente las actividades del  Plan de Saneamiento del Manejo de Vertimientos (PSMV) del casco urbano y centro poblado san Roque ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de Alcantarillado",
+                    "indicador": "Plan de Saneamiento del Manejo de Vertimientos (PSMV) implementados",
+                    "Ods": "6"
+                  },{
+                    "key": "6",
+                    "meta": "Realizar  mejoramientos al alcantarillado sanitario y pluvial ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Alcantarillados optimizados",
+                    "indicador": "Alcantarillados optimizados",
+                    "Ods": "6 y 12"
+                  }]
+            },{
+                "keyp":"6",
+                "Programapdd": "AGUA FUENTE DE SALUD Y VIDA",
+                "Programa":"4003 Acceso de la población a los servicios de agua potable y saneamiento básico",
+                "Todobien": [{
+                    "key":"1",
+                    "indibien": "Porcentaje de usuarios con servicio de aseo",
+                    "Udm":"Porcentaje",
+                    "Mdc":"100,00%"
+                  }],
+                  "Todoproducto": [{
+                    "key": "1",
+                    "meta": "Implementar anualmente las actividades  del Plan de Gestión Integral de Residuos Solidos (PGIRS)",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "4",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicios de implementación del Plan de Gestión Integral de Residuos Solidos PGIRS",
+                    "indicador": "Plan de Gestión Integral de Residuos Solidos implementado",
+                    "Ods": "12"
+                  },{
+                    "key": "2",
+                    "meta": "Adquirir un carro compactador para la recolección de los residuos sólidos del municipio ",
+                    "tmeta": "INCREMENTO",
+                    "Lineabase": "N/A",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de Aseo ",
+                    "indicador": "Municipios con vehículos de recolección de residuos solidos",
+                    "Ods": "12"
+                  },{
+                    "key": "3",
+                    "meta": "Mantener anualmente  la  recolección y transporte de residuos sólidos ",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de Aseo",
+                    "indicador": "Recolecciones y transporte de residuos sólidos realizados",
+                    "Ods": "12"
+                  },{
+                    "key": "4",
+                    "meta": "Construir  sistemas puntuales de tratamiento de agua servidas en el Municipio ",
+                    "tmeta": "MANTENIMIENTO",
+                    "Lineabase": "1",
+                    "responsable":"Secretaria de planeación y Obras Públicas",
+                    "producto": "Servicio de apoyo financiero para subsidios al consumo en los servicios públicos domiciliarios",
+                    "indicador": "Pagos de subsidios de aseo realizados ",
+                    "Ods": "12"
+                  }]
+            }]
+        }]
+    }
+]
